@@ -9,6 +9,6 @@ But, I'm a grassroots community organizer, and I felt like for getting a handle 
 
 If you're someone who, unlike me, knows what you're doing (at least comparatively, which in this case, means if you're able to print "Hello World" you're lightyears ahead of me), and you'd like to toy around with this to develop useful tools for grassroots community organizers, have at it.
 
-Also, feel free to reach me at andrew.siegler@prorotn.me.
+Also, feel free to reach me at andrew.siegler@proton.me.
 
 Thanks.
