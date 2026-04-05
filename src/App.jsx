@@ -552,6 +552,18 @@ export default function GanttPlanner() {
           </div>
         </div>
         <div style={{ display: "flex", gap: 4, alignItems: "center" }}>
+          <a href="mailto:andrew.siegler@proton.me?subject=Gantt%20Planner%20Feedback" style={{
+            padding: "5px 12px", fontSize: 11, fontWeight: 600,
+            border: "none", borderRadius: 5,
+            background: "linear-gradient(135deg, #6366f1, #a855f7)",
+            cursor: "pointer", color: "#fff", fontFamily: "inherit",
+            boxShadow: "0 1px 3px rgba(99,102,241,0.3)",
+            textDecoration: "none", display: "inline-flex", alignItems: "center",
+            transition: "opacity 0.15s",
+          }}
+            onMouseEnter={e => e.currentTarget.style.opacity = 0.85}
+            onMouseLeave={e => e.currentTarget.style.opacity = 1}
+          >💬 Send Feedback</a>
           {hasAnyParents && (<>
             <button onClick={() => {
               const ap = tasks.filter((_, i) => hasChildren(tasks, i)).map(t => t.id);
