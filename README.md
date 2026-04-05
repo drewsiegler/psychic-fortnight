@@ -56,4 +56,4 @@ Every time you push to GitHub, Vercel auto-deploys the update.
 
 ## License
 
-MIT
+GNU Affero General Public License v3.0 (AGPL-3.0)
