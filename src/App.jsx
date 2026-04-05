@@ -552,7 +552,7 @@ export default function GanttPlanner() {
           </div>
         </div>
         <div style={{ display: "flex", gap: 4, alignItems: "center" }}>
-          <a href="mailto:andrew.siegler@proton.me?subject=Gantt%20Planner%20Feedback" style={{
+          <a href="mailto:psychicfortnightproject@pm.me?subject=Gantt%20Planner%20Feedback" style={{
             padding: "5px 12px", fontSize: 11, fontWeight: 600,
             border: "none", borderRadius: 5,
             background: "linear-gradient(135deg, #6366f1, #a855f7)",
